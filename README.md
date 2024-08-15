@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Abhishekkumarsharmaa
 - 👀 I’m interested in Web Development 
-- 🌱 I have  currently learnt HTML,CSS,JS,Node.JS,Express.JS and Java
+- 🌱 I have  currently learnt HTML,CSS,JS,Node.JS,Express.JS, SQL and Java
 - 💞️ I’m looking forward to be a Good Web developer 
